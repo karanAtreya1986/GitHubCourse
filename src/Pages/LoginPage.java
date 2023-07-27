@@ -7,5 +7,6 @@ public class LoginPage {
 		String userName="Admin";
 		String password="Adming123";
 		System.out.println("logged in ......");
+		System.out.println("logged out ......");
 	}
 }
