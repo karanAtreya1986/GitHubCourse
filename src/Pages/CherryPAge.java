@@ -7,5 +7,9 @@ public class CherryPAge {
 		String name ="naveen";
 		int salary=100;
 	}
+	
+	public void test() {
+		System.out.println("Test feature added");
+	}
 
 }
