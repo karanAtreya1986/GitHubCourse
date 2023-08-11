@@ -10,6 +10,8 @@ public class CartPage {
 		}
 		
 		System.out.println("hi new commit to be added");
+		
+		System.out.println("hi new commit to be added for the cart page");
 
 	}
 
