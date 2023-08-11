@@ -8,11 +8,6 @@ public class CartPage {
 		if(true) {
 			System.out.println("cart is ready ..........");
 		}
-		
-		while(true) {
-			System.out.println("hi breaking code");
-			break;
-		}
 
 	}
 
