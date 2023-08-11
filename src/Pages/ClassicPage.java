@@ -11,7 +11,15 @@ public class ClassicPage {
 		System.out.println("hi");
     System.out.println("bye code from remote");
     System.out.println("Accepted our friends code");
+    System.out.println("alias check");
+    
+    
 
 	}
+	
+	public void master() {
+    	System.out.println("master blaster");
+    	int n=10;
+    }
 
 }
