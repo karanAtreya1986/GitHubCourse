@@ -12,6 +12,8 @@ public class CartPage {
 		System.out.println("hi new commit to be added");
 		
 		System.out.println("hi new commit to be added for the cart page");
+		
+		System.out.println("hi new commit to be added for the cart page another one to be added");
 
 	}
 
