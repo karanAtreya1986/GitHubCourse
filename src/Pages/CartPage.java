@@ -8,6 +8,8 @@ public class CartPage {
 		if(true) {
 			System.out.println("cart is ready ..........");
 		}
+		
+		System.out.println("hi new commit to be added");
 
 	}
 
