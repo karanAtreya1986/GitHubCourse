@@ -20,6 +20,7 @@ public class ClassicPage {
 	public void master() {
     	System.out.println("master blaster");
     	int n=10;
+    	int k=20;
     }
 
 }
