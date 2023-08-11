@@ -21,6 +21,7 @@ public class ClassicPage {
     	System.out.println("master blaster");
     	int n=10;
     	int k=20;
+    	System.out.println("to check the diff between commits");
     }
 
 }
