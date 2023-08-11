@@ -9,6 +9,7 @@ public class ClassicPage {
 		int div=k1/k;
 		System.out.println(div);
     System.out.println("bye code from remote");
+    System.out.println("Accepted our friends code");
 
 	}
 
