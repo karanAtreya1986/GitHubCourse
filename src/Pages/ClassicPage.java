@@ -27,6 +27,8 @@ public class ClassicPage {
 
     	int age=25;
     	int salary=150000;
+    	
+    	System.out.println("hi cart guys how are you");
 
     }
 
