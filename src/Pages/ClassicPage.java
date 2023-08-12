@@ -34,4 +34,7 @@ public class ClassicPage {
 
     }
 
+	public void blaster(){
+		System.out.println("Sachin tendulkar");
+
 }
