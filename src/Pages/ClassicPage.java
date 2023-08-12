@@ -30,6 +30,8 @@ public class ClassicPage {
     	
     	System.out.println("hi cart guys how are you");
 
+	System.out.println("hi master guys how are you");
+
     }
 
 }
