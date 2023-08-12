@@ -26,7 +26,7 @@ public class ClassicPage {
 		int salary=120000;
 
     	int age=25;
-    	int salary=120000;
+    	int salary=150000;
 
     }
 
