@@ -22,7 +22,12 @@ public class ClassicPage {
     	int n=10;
     	int k=20;
     	System.out.println("to check the diff between commits");
+
 		int salary=120000;
+
+    	int age=25;
+    	int salary=120000;
+
     }
 
 }
